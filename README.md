@@ -1,5 +1,6 @@
-#Inventory Demand Forecasting using Machine Learning
-📌 Project Overview
+##Inventory Demand Forecasting using Machine Learning
+
+#📌 Project Overview
 
 Vendors selling everyday items need to keep their stock updated so that customers don’t leave empty-handed. This project uses Machine Learning to forecast inventory demand for different products across multiple stores.
 
@@ -11,7 +12,7 @@ Prevent overstocking, which increases costs.
 
 Plan inventory efficiently for long-term trends.
 
-⚙️ Tech Stack
+#⚙️ Tech Stack
 
 Programming Language: Python
 
